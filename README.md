@@ -4,3 +4,5 @@ This is my first repository
 i am very new to coding 
 i want to keep learning 
 i am playing free fire 
+i love gym
+
